@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.done {
+  text-decoration: line-through;
+}
+.one {
+  background-color: green;
+  font-size: x-large;
+}
